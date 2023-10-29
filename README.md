@@ -84,16 +84,7 @@ The results of the models' predictions can be found in the respective Jupyter no
 
 ---
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own purposes.
-
----
-
-For any questions or feedback, please contact:
-
-Your Name
-Your Email Address
 
 ---
 
