@@ -47,13 +47,13 @@ pip install tensorflow keras pandas numpy matplotlib
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bitcoin-price-prediction.git
+git clone https://github.com/PravinRF7/Bitcoin_Price_Prediction.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd bitcoin-price-prediction
+cd Bitcoin_Price_Prediction
 ```
 
 3. Open the Jupyter notebooks provided to explore and run the models.
